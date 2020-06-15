@@ -1,0 +1,15 @@
+C:\Users\chris\source\repos\Kleinste Gemene Veelvoud\bin\Debug\Kleinste Gemene Veelvoud.exe.config
+C:\Users\chris\source\repos\Kleinste Gemene Veelvoud\bin\Debug\Kleinste Gemene Veelvoud.exe
+C:\Users\chris\source\repos\Kleinste Gemene Veelvoud\bin\Debug\Kleinste Gemene Veelvoud.pdb
+C:\Users\chris\source\repos\Kleinste Gemene Veelvoud\obj\Debug\Kleinste Gemene Veelvoud.csprojAssemblyReference.cache
+C:\Users\chris\source\repos\Kleinste Gemene Veelvoud\obj\Debug\MainWindow.g.cs
+C:\Users\chris\source\repos\Kleinste Gemene Veelvoud\obj\Debug\App.g.cs
+C:\Users\chris\source\repos\Kleinste Gemene Veelvoud\obj\Debug\Kleinste Gemene Veelvoud_MarkupCompile.cache
+C:\Users\chris\source\repos\Kleinste Gemene Veelvoud\obj\Debug\Kleinste Gemene Veelvoud_MarkupCompile.lref
+C:\Users\chris\source\repos\Kleinste Gemene Veelvoud\obj\Debug\MainWindow.baml
+C:\Users\chris\source\repos\Kleinste Gemene Veelvoud\obj\Debug\Kleinste Gemene Veelvoud.g.resources
+C:\Users\chris\source\repos\Kleinste Gemene Veelvoud\obj\Debug\Kleinste_Gemene_Veelvoud.Properties.Resources.resources
+C:\Users\chris\source\repos\Kleinste Gemene Veelvoud\obj\Debug\Kleinste Gemene Veelvoud.csproj.GenerateResource.cache
+C:\Users\chris\source\repos\Kleinste Gemene Veelvoud\obj\Debug\Kleinste Gemene Veelvoud.csproj.CoreCompileInputs.cache
+C:\Users\chris\source\repos\Kleinste Gemene Veelvoud\obj\Debug\Kleinste Gemene Veelvoud.exe
+C:\Users\chris\source\repos\Kleinste Gemene Veelvoud\obj\Debug\Kleinste Gemene Veelvoud.pdb
